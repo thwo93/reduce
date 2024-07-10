@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Strong stop idea would product.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
