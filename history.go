@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Worry western record until.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
