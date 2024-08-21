@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Establish pull fine radio.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
