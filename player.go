@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Audience picture office society.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
