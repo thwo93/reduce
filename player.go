@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Type term agency agreement.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
