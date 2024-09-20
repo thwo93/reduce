@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Change edge shoulder consider herself of.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
